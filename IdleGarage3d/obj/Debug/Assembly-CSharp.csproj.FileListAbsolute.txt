@@ -1,0 +1,2 @@
+C:\Users\HEK\Desktop\GameDevelopersIntern\SecondMissionFly\IdleGarage3d\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\HEK\Desktop\GameDevelopersIntern\SecondMissionFly\IdleGarage3d\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
